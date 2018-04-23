@@ -1,0 +1,7 @@
+15362566
+Abdulrahman salim
+
+firstly for creating teams i could of done it a different way but chose to stick with the way i have it. i believe i could of done it without having the two checks.
+also i had difficulty thinking about the swapping and why it wasnt working for me.
+i think my output is reversed, as in the question it says sort from the most highest.
+unit test were implemented also.
